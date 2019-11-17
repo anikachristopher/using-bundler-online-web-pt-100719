@@ -2,6 +2,6 @@
 # Sinatra
 # Octokit
 # Pry
-# AwesomePrint
 
+# AwesomePrint
 require_relative '../config/environment'
