@@ -1,5 +1,4 @@
 require "bundler/setup"
-Bundler.require (:development)
-Bundler.require (:default)
+Bundler.require (:default, :development)
 
 # gem "pry", :group => "development"
