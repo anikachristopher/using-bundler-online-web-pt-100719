@@ -12,4 +12,3 @@ group :test do
 gem "rspec"
 end
 
-require "bundler/setup"
