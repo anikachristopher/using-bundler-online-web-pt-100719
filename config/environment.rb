@@ -1,2 +1,2 @@
 require "bundler/setup"
-require "default group"
+require "development setup"
